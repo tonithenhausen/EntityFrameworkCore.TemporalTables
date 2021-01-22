@@ -1,3 +1,6 @@
+# Entitiy Framework 5 Temportal Tables
+
+Based on https://github.com/findulov/EntityFrameworkCore.TemporalTables and https://github.com/Adam-Langley/efcore-temporal-query
 
 ```
 public void ConfigureServices(IServiceCollection services)
