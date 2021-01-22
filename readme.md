@@ -1,4 +1,4 @@
-# Entitiy Framework 5 Temportal Tables
+# Entitiy Framework Core 5 Temportal Tables
 
 Based on https://github.com/findulov/EntityFrameworkCore.TemporalTables and https://github.com/Adam-Langley/efcore-temporal-query
 
